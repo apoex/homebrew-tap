@@ -1,5 +1,5 @@
 # homebrew-tap
-ApoEx custom formulas for Homwbrew
+ApoEx custom formulas for Homebrew
 
 ## Installation
 
