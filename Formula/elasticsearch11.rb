@@ -3,7 +3,7 @@ require 'formula'
 class Elasticsearch11 < Formula
   homepage 'http://www.elasticsearch.org'
   url 'https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.1.1.tar.gz'
-  sha256 '8495b928984945728635f805f6e2e7183902a3ea'
+  sha256 '564cd91bb55cc9d922e59679b0f666e0b4f0bd8c2b9cafd5fce4c55f3f50a835'
 
   head do
     url 'https://github.com/elasticsearch/elasticsearch.git'
